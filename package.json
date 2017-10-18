@@ -1,0 +1,11 @@
+{
+  "name": "coverage-app",
+  "version": "0.1.0",
+  "description": "Coverage app to aggregate the coverage data",
+  "dependencies": {
+    "express": "4.16.2",
+    "istanbul-middleware": "0.2.2",
+    "path": "^0.12.7",
+    "routes": "^2.1.0"
+  }
+}
